@@ -1,0 +1,15 @@
+{
+  "name": "deepseek-2026-ppt",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/generate-deck.mjs",
+    "export": "node scripts/export-deck.mjs"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "playwright": "^1.60.0",
+    "pptxgenjs": "^4.0.1"
+  }
+}
