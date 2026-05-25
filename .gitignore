@@ -1,2 +1,4 @@
 node_modules/
 .lark-slides/
+exports/feishu-slides-manifest.json
+exports/feishu-slides-readback.xml
